@@ -39,7 +39,7 @@
 <br>
 <br>
 <h3>Nutrition Information</h3>
-<body>Probably bad for you!</body>
+<p>Probably bad for you!</p>
 <br>
 <br>
 <br>
