@@ -1,9 +1,8 @@
+<html>
 <article>
-<header>
 <h1> The Best Chocolate Chip Cookies Recipe </h1>
 <h3>by Grandma</h3>
 <p>Prep Time: 45 Min</p>
-</header>
 <br>
 <img src="./img/cookies.jpg" alt=Chocolate Chip Cookies>
 <br>
@@ -46,3 +45,4 @@
 <br>
 <a href="http://www.opensourcefood.com/people/Amanori/recipes/mamas-recipe-the-best-chocolate-chip-cookies">Inspiration Recipe</a>
 </article>
+</html>
